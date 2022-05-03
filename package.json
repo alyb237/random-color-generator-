@@ -1,6 +1,7 @@
 {
   "name": "random-color-generator-",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "repository": "https://github.com/alyb237/random-color-generator-.git",
   "author": "alyb237 <alyb237@gmail.com>",
@@ -39,5 +40,10 @@
     "eslint-plugin-react": "7.29.4",
     "eslint-plugin-react-hooks": "4.5.0",
     "@typescript-eslint/utils": "5.22.0"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "randomcolor": "0.4.4"
   }
 }
