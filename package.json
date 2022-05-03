@@ -1,0 +1,8 @@
+{
+  "name": "random-color-generator-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alyb237/random-color-generator-.git",
+  "author": "alyb237 <alyb237@gmail.com>",
+  "license": "MIT"
+}
